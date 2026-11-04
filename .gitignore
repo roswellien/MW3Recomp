@@ -1,0 +1,12 @@
+/local/
+/build/
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.obj
+*.lib
+*.pdb
+*.pem
+*.pfx
+*.iso

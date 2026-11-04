@@ -1,0 +1,43 @@
+{
+  "remill": {
+    "version": "6.0.1",
+    "source": "https://github.com/lifting-bits/remill/tree/0e324aee8c67a63ec759ef379dcfafa0b3cb1448/include",
+    "license": "Apache-2.0",
+    "files": {
+      "remill/Arch/Runtime/Builtin.h": "116b5675b6015a5af7d585de38364dc0479089e689426c4740e58a451f9c6b56",
+      "remill/Arch/Runtime/Definitions.h": "1265bd626f618fb7df85f2c727e5fb6e76d227a987c4218b4aabf314b692b478",
+      "remill/Arch/Runtime/Float.h": "14a4be75e90f51cfb7f82ade88dd5785aa837106a7e26af1bb40a2213b6deacd",
+      "remill/Arch/Runtime/HyperCall.h": "f519103e4dcff634f5514815fc5e48957e766ec0456ff2566f67e16498892e6e",
+      "remill/Arch/Runtime/Int.h": "7b2fd200051c3db0fb0ca0e7f4d0518338c72c023c4ede09e93f4d46dd4c0feb",
+      "remill/Arch/Runtime/Math.h": "a10f50379c7614dcf52e7bac4c4225003e58cbbd7fe887d569e4b9d064ce03ce",
+      "remill/Arch/Runtime/State.h": "6c691defac10352e6ca618268d32bd8de4217d527116a1f01a73e111ea3f8f86",
+      "remill/Arch/Runtime/TypeTraits.h": "793565f9d67c98cf77ca43b5a2cd32094bf5f838f81126784593007b6fd9e323",
+      "remill/Arch/Runtime/Types.h": "745091f34067612a75c5586d7022afa82e8d706aad82f98364742573e95d791a",
+      "remill/Arch/X86/Runtime/State.h": "b5fa2699394b388547dba6ca58c38970b6d390ed25223e540dbf60607bbe2f0f"
+    },
+    "hash_algorithm": "sha256-crlf-to-lf"
+  },
+  "vulkan": {
+    "version": "1.4.321",
+    "source": "https://github.com/KhronosGroup/Vulkan-Headers/tree/v1.4.321/include",
+    "license": "Apache-2.0 AND MIT",
+    "files": {
+      "vk_video/vulkan_video_codec_av1std.h": "76c408eb8dce6e1f068594eb3239e75a05e3395f2ce10fef512599bd916fe879",
+      "vk_video/vulkan_video_codec_av1std_decode.h": "2b912389d39d6627ee8af01e052e9557d213b27c0b79a0e25f5366cfe1942f1a",
+      "vk_video/vulkan_video_codec_av1std_encode.h": "93ad363de123988cd7b27acc7930f7f93497bc2e5d74f8420ee8ba18e8746e0a",
+      "vk_video/vulkan_video_codec_h264std.h": "05859b58e094a8dcc88cb3766a1fcbfd62bcaab20c93d2c3e5cec853628f277c",
+      "vk_video/vulkan_video_codec_h264std_decode.h": "d2be01f84f773644a24b7634f49e63ff8c6f0e807119b1bf609176585031f93a",
+      "vk_video/vulkan_video_codec_h264std_encode.h": "c68a1fa4ebadd1b50992a61fb93310a6686d5ea932b91b850d3ad9bc8dec488e",
+      "vk_video/vulkan_video_codec_h265std.h": "a5d0b2e7b47843db610d2769c7b0202c90cd7db82108b60fb2631d1c7976a395",
+      "vk_video/vulkan_video_codec_h265std_decode.h": "944646ced5bf9f49b79144c18369f0b932900c375fd81c262a3c30e9c60de8c6",
+      "vk_video/vulkan_video_codec_h265std_encode.h": "aa8c75beac0962abf752a5ec741a42b1a108ee28fb6b3abcdc995e57e20c6c14",
+      "vk_video/vulkan_video_codec_vp9std.h": "85d729b33906f815157bd63ddef986712f250f5279dedb52d6b81d0478836658",
+      "vk_video/vulkan_video_codec_vp9std_decode.h": "318a21532405f31a7b977c340effbf5bff30790734153c29ed6ad9a8230efbaf",
+      "vk_video/vulkan_video_codecs_common.h": "7afc98e84d3bea72e40a65161463abbd4be2ff1e1853eca3f8c331afb7329a8b",
+      "vulkan/vk_platform.h": "2fa47dd60cd94eb6fd8d7615953878f5664eb57fdff3b1b9b856c1d8f1496737",
+      "vulkan/vulkan_core.h": "3172a758081a172f4c46771a88046a53d5791ef2bd24329ff4bd7ed8c6f12abd",
+      "vulkan/vulkan_win32.h": "256a5fb80fe43611f7218a63d8a1fc4d84e51d9e6b250f7254cae235d7c8d4a5"
+    },
+    "hash_algorithm": "sha256-crlf-to-lf"
+  }
+}
