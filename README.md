@@ -1,11 +1,11 @@
 # Core Critical native host and launcher
 
-Minimal source candidate for the Windows x64 native host and .NET 8 WPF launcher.
+Build source for the Windows x64 native host and .NET 8 WPF launcher.
 The project preserves the original game's translated logic while supplying modern
 platform services. This tree contains no website, deployment system, private Git
 history, signing material, original game content or translated game binaries.
 
-This is a local preparation candidate, not an approved public release. Retained
+Retained
 lookup tables are interoperability metadata; shader arrays compile authored GLSL.
 Project contributions use the included MIT license. Third-party components retain
 their own licenses and notices; original game content is not covered by MIT.
@@ -61,8 +61,8 @@ translated game module. An existing locally generated runtime is an explicit
 prerequisite. This export does not yet provide a reviewed standalone path from
 only an original installation to MW3Translated.dll. No original executable,
 provider DLL, generated instruction body, media, assets or compiled runtime is
-distributed here. Do not describe this candidate as a complete game build from
-original media alone.
+distributed here. A complete game build from
+original media alone requires a separate translation build.
 
 ## Source maintenance
 
